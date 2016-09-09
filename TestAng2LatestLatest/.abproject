@@ -1,0 +1,28 @@
+{
+  "ProjectName": "TestAng2LatestLatest",
+  "ProjectGuid": "0d36efb0-f892-4704-904d-f12004787569",
+  "projectVersion": 1,
+  "AppIdentifier": "com.telerik.TestAng2LatestLatest",
+  "DisplayName": "TestAng2LatestLatest",
+  "Author": "",
+  "Description": "TestAng2LatestLatest",
+  "BundleVersion": "1.0",
+  "AndroidVersionCode": "1",
+  "iOSDeviceFamily": [
+    "1",
+    "2"
+  ],
+  "iOSBackgroundMode": [],
+  "ProjectTypeGuids": "{F0A65104-D4F4-4012-B799-F612D75820F6}",
+  "AndroidPermissions": [
+    "android.permission.INTERNET"
+  ],
+  "DeviceOrientations": [
+    "Portrait",
+    "Landscape"
+  ],
+  "AndroidHardwareAcceleration": "true",
+  "iOSStatusBarStyle": "Default",
+  "FrameworkVersion": "2.2.0",
+  "Framework": "NativeScript"
+}
